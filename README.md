@@ -9,5 +9,6 @@
 ## 個人とorgの実験
 個人の場合
   - privateに変更すると`Upgrade to GitHub Pro or make this repository public to enable Pages.`と注意され、上記URLにアクセスできなくなる<br>publicに戻し、もう一度master branchを設定する~が、現在アクセスできない状態~（3分ほど経ってURLが復活する）
+
 orgの場合
   - privateに変更しても問題なし
